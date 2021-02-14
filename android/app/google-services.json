@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536850615545",
+    "project_id": "movtix-76e20",
+    "storage_bucket": "movtix-76e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536850615545:android:c79fb738fcb1e9ec2be628",
+        "android_client_info": {
+          "package_name": "com.syahferiaswan.movtix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536850615545-trd30hcnuesp07metio0iooa05m5udqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7XMJRM9Y3ZGMfzcuf_xw8-8eOpCC11Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536850615545-trd30hcnuesp07metio0iooa05m5udqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
